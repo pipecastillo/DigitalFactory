@@ -1,0 +1,28 @@
+body{
+font-family: 'Open Sans', sans-serif;
+
+}
+
+
+.menu-home{
+  background-color: black;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+}
+
+.menu{
+  font-size: 12px;
+display: inline-block;
+width: 200px;
+height: 20px;
+padding: 5px 10px;
+text-align: center;
+}
+
+
+
+
+.linkmenu:hover{
+color:white;
+text-decoration: none;
+}
